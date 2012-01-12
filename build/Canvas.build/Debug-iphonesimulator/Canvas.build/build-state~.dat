@@ -1,0 +1,314 @@
+TCanvas
+v7
+r0
+t347970600.010841
+cCheck dependencies
+cProcessInfoPlistFile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Info.plist Canvas-Info.plist
+cProcessPCH /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch.gch Canvas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/main.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasAppDelegate.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasViewController.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasView.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas normal i386
+cGenerateDSYMFile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app.dSYM /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas
+cTouch /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIColor.h
+c000000004BD2041200000000000009E6
+t1272054802
+s2534
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFont.h
+c000000004BD204120000000000000549
+t1272054802
+s1353
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h
+c000000004BD204120000000000000D8E
+t1272054802
+s3470
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/CanvasViewController.xib
+c000000004F0BD4FE0000000000003EDD
+t1326175486
+s16093
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Canvas_Prefix.pch
+c000000004F0BD4FE00000000000000B5
+t1326175486
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.h
+c000000004F0D5A2A0000000000000196
+t1326275114
+s406
+i<UIKit/UIKit.h>
+i"CanvasViewController.h"
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m
+c000000004F0D640E0000000000000367
+t1326277646
+s871
+i"CanvasAppDelegate.h"
+i"UIKit/UITextview.h"
+i"UIKit/UIColor.h"
+i"UIKit/UIFont.h"
+i"CanvasViewController.h"
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.h
+c000000004F0D5953000000000000026A
+t1326274899
+s618
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m
+c000000004F0D5E9D000000000000064A
+t1326276253
+s1610
+i"CanvasView.h"
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.h
+c000000004F0D5D48000000000000028D
+t1326275912
+s653
+i<UIKit/UIKit.h>
+i"CanvasView.h"
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m
+c000000004F0D640A0000000000000AB9
+t1326277642
+s2745
+i<UIKit/UIKit.h>
+i"CanvasViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/MainWindow.xib
+c000000004F0BD4FE0000000000004CFF
+t1326175486
+s19711
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/Canvas.LinkFileList
+c000000004F0D64A6000000000000026B
+t1326277798
+s619
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasAppDelegate.o
+t1326277799
+s47776
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasView.o
+t1326277799
+s26688
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasViewController.o
+t1326277799
+s53688
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/main.o
+t1326277799
+s6536
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app
+t1326277800
+s170
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app.dSYM
+t1326277799
+s102
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas
+t1326277799
+s25900
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/CanvasViewController.nib
+t1326184280
+s764
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Info.plist
+t1326277798
+s794
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/MainWindow.nib
+t1326184280
+s1121
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/PkgInfo
+t1326277798
+s8
+
+N/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m
+c000000004F0BF7110000000000000177
+t1326184209
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch.gch
+t1326277799
+s13825936
+
+NCanvas-Info.plist
+c000000004F0BD4FE00000000000004D6
+t1326175486
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347970598#347970598#0(0"0(0#1#0"8652718816#0"0#
+
+CCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasAppDelegate.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347970599.628406
+e347970599.758633
+r1
+xCompileC
+xbuild/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasAppDelegate.o
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m347970599#347970599#0(0"0(0#0#92"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m8653243200#2255"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-generated-files.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-own-target-headers.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-all-target-headers.hmap -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-project-headers.hmap -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/include -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources/i386 -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources -include /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasAppDelegate.m -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasAppDelegate.o0#
+
+CCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasView.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347970599.758744
+e347970599.906697
+r1
+xCompileC
+xbuild/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasView.o
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m: In function '-[CanvasView drawButton:withText:]':
+o/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m:38: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:105)
+lSLF07#2@93"Compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m347970599#347970599#0(424"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m: In function '-[CanvasView drawButton:withText:]':/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m:38: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:105)1(22@187"'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:105)347970599#137#287#0(6@85"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m347969053#38#0#38#0#33"'*' is deprecated (declared at *)0(0#0#85"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m8650276512#2241"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-generated-files.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-own-target-headers.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-all-target-headers.hmap -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-project-headers.hmap -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/include -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources/i386 -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources -include /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasView.m -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasView.o0#
+
+CCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasViewController.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347970599.699571
+e347970599.931883
+r1
+xCompileC
+xbuild/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasViewController.o
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m347970599#347970599#0(0"0(0#0#95"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m8652831968#2261"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-generated-files.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-own-target-headers.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-all-target-headers.hmap -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-project-headers.hmap -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/include -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources/i386 -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources -include /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Classes/CanvasViewController.m -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/CanvasViewController.o0#
+
+CCompileC build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/main.o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347970599.626505
+e347970599.699464
+r1
+xCompileC
+xbuild/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/main.o
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m347970599#347970599#0(0"0(0#0#71"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m8653445632#2221"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-generated-files.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-own-target-headers.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-all-target-headers.hmap -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-project-headers.hmap -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/include -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources/i386 -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources -include /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/main.m -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/CanvasViewController.xib
+s347877079.306182
+e347877080.837300
+r1
+xCompileXIB
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/CanvasViewController.xib
+lSLF07#2@35"CompileXIB CanvasViewController.xib347877079#347877080#0(0"0(0#0#89"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/CanvasViewController.xib8616602112#667"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/CanvasViewController.nib /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/CanvasViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/MainWindow.xib
+s347877079.305319
+e347877081.355481
+r1
+xCompileXIB
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347877079#347877081#0(0"0(0#0#79"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/MainWindow.xib8617099200#647"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/MainWindow.nib /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app.dSYM /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas
+s347970599.967833
+e347970600.007323
+r1
+xGenerateDSYMFile
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app.dSYM
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Canvas.app.dSYM build/Debug-iphonesimulator/Canvas.app/Canvas347970599#347970600#0(0"0(0#0#110"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas8651526688#458"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app.dSYM0#
+
+CLd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas normal i386
+s347970599.931975
+e347970599.967139
+r1
+xLd
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas
+xnormal
+xi386
+lSLF07#2@115"Link /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas347970599#347970599#0(0"0(0#0#0"8652288896#1025"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -filelist /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Objects-normal/i386/Canvas.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Canvas0#
+
+CProcessInfoPlistFile /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Info.plist Canvas-Info.plist
+s347970598.314309
+e347970598.319243
+r1
+xProcessInfoPlistFile
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Info.plist
+xCanvas-Info.plist
+lSLF07#2@25"Process Canvas-Info.plist347970598#347970598#0(0"0(0#0#82"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Canvas-Info.plist8651951456#554"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Canvas-Info.plist -genpkginfo /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app/Info.plist0#
+
+CProcessPCH /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch.gch Canvas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347970598.319360
+e347970599.626333
+r1
+xProcessPCH
+x/var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch.gch
+xCanvas_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Canvas_Prefix.pch347970598#347970599#0(0"0(0#0#82"/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Canvas_Prefix.pch8651513792#2088"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-generated-files.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-own-target-headers.hmap -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-all-target-headers.hmap -iquote /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/Canvas-project-headers.hmap -F/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/include -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources/i386 -I/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Canvas.build/Debug-iphonesimulator/Canvas.build/DerivedSources -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/Canvas_Prefix.pch -o /var/folders/Gc/Gcs7j2xtG2yaWOdWHlxs0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Canvas_Prefix-gglgsxjsakmvbbdwiekdvkffcecd/Canvas_Prefix.pch.gch0#
+
+CTouch /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app
+s347970600.007411
+e347970600.010793
+r1
+xTouch
+x/Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app
+lSLF07#2@109"Touch /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app347970600#347970600#0(0"0(0#0#0"8649887552#329"    cd /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gauravtoshniwal/Dropbox/CoBo/labs/IOS/Vishal_Trial/Canvas/build/Debug-iphonesimulator/Canvas.app0#
+
